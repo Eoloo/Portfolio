@@ -16,10 +16,10 @@
         font-weight: 100;
         }
     img {
-        image-orientation: 200%;
-        border-image: 150%;
-        justify-items: center;
-        align-content: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 20%;
         }
     h2 {
         color: black;
