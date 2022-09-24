@@ -9,6 +9,8 @@ This portfolio shows a brief introduction about me, my career and education back
 
 Project setup instructions
 
+Copy this link on your browser: https://eoloo.github.io/Portfolio/index.html
+
 Project link
 https://eoloo.github.io/Portfolio/index.html
 
