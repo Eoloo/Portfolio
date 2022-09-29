@@ -49,4 +49,7 @@
         table-layout: auto;
         width: 100%;
         border: 5px solid black;
-        }
+         }
+    tr:nth-child(even)
+        {background-color: beige} 
+        
