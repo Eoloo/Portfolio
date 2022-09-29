@@ -43,16 +43,10 @@
         font-family: Arial;
         font-size: 100;
         }
-    ol  {
-        color: black;
-        font-family: Arial;
-        font-size: 100;
-        }
     table{
         border: 50%;
         text-align: left;
         table-layout: auto;
         width: 100%;
-        border: 1px solid black;
-        border-collapse: collapse;
+        border: 5px solid black;
         }
