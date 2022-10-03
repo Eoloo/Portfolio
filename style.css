@@ -2,13 +2,13 @@
     body{
         background-color: beige;
         margin: 100px 50px 50px 100px;
-        }
+    }
     head{
         font-family: Arial;
         font-size: 250%;
         font-weight: 200%;
         align-content: center;
-        }
+    }
     h1  {
         color: black;
         font-family: Arial;
@@ -16,40 +16,40 @@
         font-weight: 100;
         margin-left: auto;
         margin-right: auto;
-        }
+    }
     img {
         display: block;
         margin-left: auto;
         margin-right: auto;
         width: 20%;
-        }
+    }
     h2 {
         color: black;
         font-family: Arial;
         font-size: 100%;
         font-weight: 100%;
-        }
+    }
     p   {
         color: black;
         font-family: Arial;
         font-size: 100%;   
-        }
+    }
     h3  {        
         color: black;
         font-family: Arial;
         font-size: 100%;
         font-weight: 100%;
-        }
+    }
     ul  {
         color: black;
         font-family: Arial;
         font-size: 100;
-        }
+    }
     table{
         border: 50%;
         text-align: left;
         table-layout: auto;
         width: 100%;
         border: 5px solid black;
-        } 
+    } 
         
