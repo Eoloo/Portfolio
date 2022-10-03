@@ -1,6 +1,7 @@
 # Portfolio landing page
 
-Author:Evans Oloo
+Author:
+Evans Oloo
 
 Description of project.
 
